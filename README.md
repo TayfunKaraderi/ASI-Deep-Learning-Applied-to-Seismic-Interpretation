@@ -42,4 +42,4 @@ Environment: 3D_Visualize.ipynb in 'Visualize-3D-Cubes', runs on Jupyter (Python
 ***
 
 **Google Drive Link:**
-https://drive.google.com/drive/folders/1Rahim4G9C-9D16m2uuMXXimKZw_w01pg?usp=sharing
+https://drive.google.com/drive/folders/1Rahim4G9C-8D16m2uuMXXimKZw_w01pg?usp=sharing
