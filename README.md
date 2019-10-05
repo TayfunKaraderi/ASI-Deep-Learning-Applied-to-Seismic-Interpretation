@@ -28,7 +28,7 @@ Apart from the main two notebooks we also have two notebooks (model_avarage.ipyn
 # SETUP INSTRUCTIONS
 1. Download this repository or clone it. Then, upload the three jupyter notebooks into Google-Colab.
 
-2. Open a google drive account (its best to not use your personal drive). Four files are shared via the below google drive link. Select the files 'FCN Approach', 'Forties', 'Pydensecrf'. Then, right click and click on add to my own drive. Download the other file 'Visualize-3D-Cubes'.  **Alternatively:** I have already done this using the google account: ACSE9test@gmail.com (password: ACSE9test!*). This google drive account contains the three required files. You may use this drive and not worry about the shared files link.
+2. Open a google drive account (its best to not use your personal drive). Four files are shared via the below google drive link. Select the files 'FCN Approach', 'Forties', 'Pydensecrf'. Then, right click and click on add to my own drive. Download the other file 'Visualize-3D-Cubes'.  
 
 3. Once the three files (which contain the datasets and libraries used within the FCN_Notebook.ipynb and SWC_Notebook.ipynb) are in the drive, connect this drive to FCN_Notebook.ipynb and SWC_Notebook.ipynb. Then, you should be able to load the datasets and go through the notebooks to train the models, apply the models etc.
 
