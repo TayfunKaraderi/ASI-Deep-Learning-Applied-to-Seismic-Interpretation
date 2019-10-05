@@ -23,8 +23,7 @@ Apart from the main two notebooks we also have two notebooks (model_avarage.ipyn
  
 **model_avarage.ipynb** : This is to upload the predicted cube segmentation maps from various different models/approaches and model avarage those by taking the mode.
 
-**3D_Visualize.ipynb** : This is contained within the Visualize-3D-Cubes file in the Google drive link. Visualize-3D-Cubes file also contains sample predicted segmetation cubes, seismic amplitudes cubes and the ground truth labellings data. This enables us to visualize 3d arrays in an interactive way with sliding inlines/crosslines and vertical-lines as shown in the appendix of the report. Requirements: pip install segyio and mayavi. Note: it was observed that the mayavi library seems to work fine in some machines and cause issues in other machines. As an example of an issue, in some machines code runs without errors but generates a frozen black window (I suspect this may be something to do with the graphics card available).
-
+**3D_Visualize.ipynb** : This is contained within the Visualize-3D-Cubes file in the Google drive link. Visualize-3D-Cubes file also contains sample predicted segmetation cubes, seismic amplitudes cubes and the ground truth labellings data. This enables us to visualize 3d arrays in an interactive way with sliding inlines/crosslines and vertical-lines as shown in the appendix of the report. Requirements: pip install segyio and mayavi.
 
 # SETUP INSTRUCTIONS
 1. Download this repository or clone it. Then, upload the three jupyter notebooks into Google-Colab.
