@@ -42,7 +42,5 @@ Environment: 3D_Visualize.ipynb in 'Visualize-3D-Cubes', runs on Jupyter (Python
 * 'Pydensecrf' file shared is the Krähenbühl's library for fully connected CRF models with gaussian edge potentials. We copied this repository from https://github.com/lucasb-eyer/pydensecrf
 ***
 
-**Important Note**: The files shared via drive have permissions for both accessing and editing (This was needed as the SWC_Notebook also writes files into this drive). Be careful to not delete the shared files as this will remove them permenantly from the shared file (i.e. after adding these to your drive if you delete them from your drive then you will also delete them from the shared link). After the evaluation, feel free to delete them. Otherwise, I will/must delete them (the reason this is a private repository is because the dataset in the Forties folder is confidential).
-
 **Google Drive Link:**
 https://drive.google.com/drive/folders/1Rahim4G9C-9D16m2uuMXXimKZw_w01pg?usp=sharing
