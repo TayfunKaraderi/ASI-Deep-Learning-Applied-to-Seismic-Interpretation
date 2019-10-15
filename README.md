@@ -42,4 +42,5 @@ Environment: 3D_Visualize.ipynb in 'Visualize-3D-Cubes', runs on Jupyter (Python
 ***
 
 **Google Drive Link:**
+[please note that the dataset is not shared as it is confidential. I deleted the shared file link below before making this repository public as it also contained pretrained models that could generate the confidential dataset. The software for the SWC (in the shared file) was copied into the SWC notebook. Feel free to contact me if you have any questions.]
 https://drive.google.com/drive/folders/1Rahim4G9C-8D16m2uuMXXimKZw_w01pg?usp=sharing
