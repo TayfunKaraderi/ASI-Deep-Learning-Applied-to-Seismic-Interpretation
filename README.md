@@ -1,9 +1,7 @@
 # ACSE-9-Project-Automatic-Seismic-Interpretation-Techniques
 
-This repository contains the presentation(ACSE-9-presentation.pdf),  final report (Report.pdf) and the software for the ACSE-9 module. Note that part of the software is shared in the google drive link at the very bottom.
-
+This repository contains the presentation(ACSE-9-presentation.pdf),  final report (Report.pdf) and the software for the ACSE-9 module.
 This package was developped as part of an internship at Ikon Science (adress: 1st Floor, 1 The Crescent, Surbiton KT6 4BN).
-
 It was supervised by Prof Olivier Dubrule and Lukas Mosser from the Imperial College London and Dr Ehsan Naeini from the Ikon Science.
 
 # Software
