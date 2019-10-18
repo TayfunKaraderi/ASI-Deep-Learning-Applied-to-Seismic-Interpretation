@@ -1,6 +1,6 @@
 # ACSE-9-Project-Automatic-Seismic-Interpretation-Techniques
 
-This repository contains the final report (Report.pdf) and the software for the ACSE-9 module. Note that part of the software is shared in the google drive link at the very bottom.
+This repository contains the presentation(ACSE-9-presentation.pdf),  final report (Report.pdf) and the software for the ACSE-9 module. Note that part of the software is shared in the google drive link at the very bottom.
 
 This package was developped as part of an internship at Ikon Science (adress: 1st Floor, 1 The Crescent, Surbiton KT6 4BN).
 
@@ -40,9 +40,3 @@ Environment: 3D_Visualize.ipynb in 'Visualize-3D-Cubes', runs on Jupyter (Python
 * 'Forties' file contains our version of the MelanoV software and our dataset. the SWC_Notebook is build as a user guide to the MelanoV software and makes excessive use of 'Forties' file for both reading files and writing files in it.
 * 'Pydensecrf' file shared is the Krähenbühl's library for fully connected CRF models with gaussian edge potentials. We copied this repository from https://github.com/lucasb-eyer/pydensecrf
 ***
-
-**Google Drive Link:**
-
-[please note that the dataset is not shared as it is confidential. I deleted the shared file link below before making this repository public as it also contained pretrained models that could generate the confidential dataset. The software for the SWC (in the shared file) was copied into the SWC notebook. Feel free to contact me if you have any questions.]
-
-https://drive.google.com/drive/folders/1Rahim4G9C-8D16m2uuMXXimKZw_w01pg?usp=sharing
