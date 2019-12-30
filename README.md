@@ -38,3 +38,7 @@ Environment: 3D_Visualize.ipynb in 'Visualize-3D-Cubes', runs on Jupyter (Python
 * 'Forties' file contains our version of the MelanoV software and our dataset. the SWC_Notebook is build as a user guide to the MelanoV software and makes excessive use of 'Forties' file for both reading files and writing files in it.
 * 'Pydensecrf' file shared is the Krähenbühl's library for fully connected CRF models with gaussian edge potentials. We copied this repository from https://github.com/lucasb-eyer/pydensecrf
 ***
+
+If you find this repository useful feel free to cite the repository, the original author's works or drop me a message.
+
+Please respect the licenses of the datasets, the original authors work and of this repository. Thank you
